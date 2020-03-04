@@ -1,0 +1,9 @@
+Program Architecture
+
+Python script to manipulate this file to make redirects.
+Windows
+C:\Windows\System32\drivers\etc\hosts
+Mac and Linux
+/etc/hosts
+
+Maybe Use Task Scheduler for Windows Cron for Mac and Linux
